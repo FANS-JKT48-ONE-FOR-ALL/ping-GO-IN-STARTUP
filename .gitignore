@@ -9,13 +9,72 @@
 
 # you may install these packages with `oil package`.
 # http://fuelphp.com/docs/packages/oil/package.html
-# /fuel/packages/auth/
-# /fuel/packages/email/
-# /fuel/packages/oil/
-# /fuel/packages/orm/
-# /fuel/packages/parser/
+# /not/fuel/packages/auth/
+# /not/fuel/packages/email/
+# /not/fuel/packages/oil/
+# /not/fuel/packages/orm/
+# /not/fuel/packages/parser/
 
 # dynamically generated files
-/fuel/app/logs/*/*/*
-/fuel/app/cache/*/*
-/fuel/app/config/crypt.php
+/not/fuel/app/logs/*/*/*
+/not/fuel/app/cache/*/*
+/not/fuel/app/config/crypt.php
+
+            #ping_GO_IN_UP APPROVED/
+            #Usage: ping [-aAbBdDfhLnOqrRUvV] [-c count] [-i interval] [-I interface]
+            [-m mark] [-M pmtudisc_option] [-l preload] [-p pattern] [-Q tos]
+            [-s packetsize] [-S sndbuf] [-t ttl] [-T timestamp_option]
+            [-w deadline] [-W timeout] [hop1 ...] destination
+
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 games InRelease
+Ign:3 https://dl.bintray.com/grimler/science-packages-24 science InRelease
+Ign:1 https://dl.bintray.com/github-packages-24 stable InRelease
+Get:5 https://dl.bintray.com/grimler/game-packages-24 games Release [5344 B]
+Get:6 https://dl.bintray.com/grimler/science-packages-24 science Release [6191 B]
+Get:4 https://dl.bintray.com/github-packages-24 stable Release [6061 B]
+Get:7 https://dl.bintray.com/grimler/game-packages-24 games Release.gpg [475 B]
+Get:8 https://dl.bintray.com/grimler/science-packages-24 science Release.gpg [475 B]
+Get:9 https://dl.bintray.com/github-packages-24 stable Release.gpg [821 B]
+Get:10 https://dl.bintray.com/github-packages-24 stable/main aarch64 Packages [114 kB]
+Fetched 133 kB in 10s (13.1 kB/s)
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following NEW packages will be installed:
+  golang
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 55.3 MB of archives.
+After this operation, 324 MB of additional disk space will be used.
+Get:1 https://dl.bintray.com/termux/termux-packages-24 stable/main aarch64 golang aarch64 2:1.14.3 [55.3 MB]
+100% [10 golang 55.3 MB 100%]             428 kB/s 2min 0s^27% [100 golang 55.3 MB/55.3 MB 100%]           590 kB/s 1min 2s
+
+aprroved :_done_
+
+
+###########################################
+         "FANS JKT48 ONE FOR ALL"
+
+LEADER PICT GROUP 01 : RAMDHAN SUWANDI
+LEADER PICT GROUP 02 : WISNU PRASETYO
+ADMIN PICT GROUP     : MOCH HABIBURROKHIM
+
+###########################################
+
+FANS JKT48 ONE FOR ALL Group , done.. open ticket 
+Reply Ticket: ECH20200516.260896 2020-05-27 23:00:42
+
+
+command : REQ PING UP
+
+status : DONE
+
+rtl_ket : #20200516 - OPEN - DEVICE LOCATOR
+#20200516 - REQ. PING UP - PENDING - *FANS JKT48 ONE FOR ALL Group*  STATUS GITHUB: APPROVED BY SPV Y817007087 PIC NAME: HABIBMAN  JABATAN: ADMIN PICT GROUP , PIC PHONE: 082142971348
+
+ PROBLEM: UKNOWN PINGTEST DESTINATION
+
+TEST PING : DONE
