@@ -49,7 +49,7 @@ The following NEW packages will be installed:
 0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
 Need to get 55.3 MB of archives.
 After this operation, 324 MB of additional disk space will be used.
-Get:1 https://dl.bintray.com/termux/termux-packages-24 stable/main aarch64 golang aarch64 2:1.14.3 [55.3 MB]
+Get:1 https://dl.bintray.com/github-packages-24 stable/main aarch64 golang aarch64 2:1.14.3 [55.3 MB]
 100% [10 golang 55.3 MB 100%]             428 kB/s 2min 0s^27% [100 golang 55.3 MB/55.3 MB 100%]           590 kB/s 1min 2s
 
 aprroved :_done_
