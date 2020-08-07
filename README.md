@@ -1,2 +1,3 @@
 # OPEN-RECORD-BACKUP 
-Done-set-up
+Done
+Open-set-up 08.08.2020/07.00.54/
