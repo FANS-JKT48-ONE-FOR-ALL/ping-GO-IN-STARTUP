@@ -1,9 +1,9 @@
 # OPEN-RECORD-BACKUP
-Not-failure
+Not-failure-processing
 
 DAFTAR ABSEN ANGGOTA GRUP *FANS JKT48 ONE FOR ALL* 2020 :
 
-SABTU.08/AGUSTUS/2020
+close-SABTU.08/logAGUSTUS/log2020srt
 
 _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Dengan Benar :_
 
