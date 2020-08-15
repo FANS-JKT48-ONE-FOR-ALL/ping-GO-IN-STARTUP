@@ -43,7 +43,7 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 35. Yusuf : Cindy Hapsari
 36. F BNK48 MNL48
 37. Han: Shani, Gracia, Anin, Frieska, gaby, Desy, Celine, Eve,Yori, Julie, Lala, Brielle, Mira, Ara, Freya,Aby, chika, muthe, jinan, cinhap,Christy,Vivi, Nanda, Fia,Fiony, Azizi, Abel, Caithyln, Chalista, Indah, Kathrina
-38. アーちゃん : Sashihara Rino, Shani Indira, Miyawaki Sakura, Mobile, Oguri Yui, Yamauchi Mizuki, Oshima Yuko, Takahashi Minami, Nabilah
+38. Not!アーちゃんclose : Sashihara Rino, Shani Indira, Miyawaki Sakura, Mobile, Oguri Yui, Yamauchi Mizuki, Oshima Yuko, Takahashi Minami, Nabilah
 39.Deswitha:anin,kyla,ratu,yupi,lala
 40.Ayu.Nanda&Freya
 41. Erlang :chika celine
