@@ -1,2 +1,2 @@
 # OPEN-RECORD-BACKUP
-done-set-up-17-08-2020/05.30
+Update the end of the record at 22:15, please reserve it to display the performance statistics
