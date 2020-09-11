@@ -1,4 +1,4 @@
 #OPEN-RECORD-BACKUP
 
-#done-set-up-list 07.08.2020/06.43
+#done-set-up-list 12.09.2020/06.00
 
