@@ -50,3 +50,4 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 39. Mugi : Yesica Tamara
 40. WisnuNgrh : Freya, Ara
 41. Reza Andrian : frieska
+42. Rifky : Desy
