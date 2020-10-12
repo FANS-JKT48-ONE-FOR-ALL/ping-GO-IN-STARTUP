@@ -1,7 +1,7 @@
+
 #OPEN-RECORD-BACKUP
 
 #done-set-up-list 12.10.2020/06.45
-
 
 DAFTAR ABSEN ANGGOTA GRUP *FANS JKT48 ONE FOR ALL* 2020 :
 
@@ -17,7 +17,7 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 06. Ima: Kalala
 07. Wahyu : shani, anin, cinhap
 08. irfan : beby,shani,zee
-09. 9Dana Karyadiansyah:Lala&Brielle
+09. Dana Karyadiansyah:Lala&Brielle
 10. Ma'ruf Atmojo Supriatna: Eli, Desy, Anin, Nunu, & Caithlyn
 11. Grego : yori, frieska
 12. Pasha : Gaby
@@ -35,11 +35,18 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 24. Aditya putra: Anin, Greshan
 25. Yoga Wp : Greshan, chika, mira, ratu
 26. Suhendra : Gracia
-Sopa : Anin, Lala, Beby
-27, Hasnan : rona
-28. Izzatul : veranda
-29. Rendi trinanto : Greshan              
-30. Farras Yulfian : Greshan, lala, badrun, marsha
-31. Ayu:Nanda&Freya
-32. Yoga Saputra :Vivi,Mira,Chika,Gresan,Ara
-33. srihartini:shani,gracia,anin,desy,cinhap
+27. Sopa : Anin, Lala, Beby
+28. Hasnan : rona
+29. Izzatul : veranda 
+30. Rendi trinanto : Greshan
+31. Farras Yulfian : Greshan, lala, badrun, marsha
+32. Ayu:Nanda&Freya
+33. Yoga Saputra :Vivi,Mira,Chika,Gresan,Ara
+34. Srihartini : Shani,gracia,anin,desy, cinhap
+35. Aditya : Brielle
+36. Dani : Freya, Raisha
+37. Ahmd fauzi : Lala & Abin
+38. Valen : greshan, feiska 
+39. Mugi : Yesica Tamara
+40. WisnuNgrh : Freya, Ara
+41. Reza Andrian : frieska
