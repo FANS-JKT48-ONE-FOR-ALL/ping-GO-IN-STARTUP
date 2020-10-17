@@ -1,53 +1,60 @@
 
 #OPEN-RECORD-BACKUP
 
-#done-set-up-list 12.10.2020/06.45
+#done-set-up-list 17.10.2020/--.--
 
 DAFTAR ABSEN ANGGOTA GRUP *FANS JKT48 ONE FOR ALL* 2020 :
 
-SENIN. 12 OKTOBER 2020
+*SABTU 17.OKTOBER.2020*
 
-_Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Dengan Benar_ :
+_Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Dengan Benar :_
 
-01. Moch Habiburrokhim = Anindita Rahma Cahyadi & Cindy Dea Yuvia
-02. Fajar Sang Idola : SisJ, eli, lala, freya, indah, indira dan amanda.
-03. Difqi : Melody, Nabilah, Kinal, Celine,Ayana,frieska, fiony, callista, indira , raisha, cigre, shaniiii, Feniiii, Freyaa, Yoriii
-04. Fauzi : Frieska, Afiqah
-05. Tegar Rifandi = Gracia, Desy, Shani, Beby, Gaby, Celine, Mira, Feni, Ariella, Aby, Aya, Eve, Yori,  Zee, Dll
-06. Ima: Kalala
-07. Wahyu : shani, anin, cinhap
-08. irfan : beby,shani,zee
-09. Dana Karyadiansyah:Lala&Brielle
-10. Ma'ruf Atmojo Supriatna: Eli, Desy, Anin, Nunu, & Caithlyn
-11. Grego : yori, frieska
-12. Pasha : Gaby
-13. Afif : Gaby,shani
-14. Chaterine : Beby, Desy, Anin
-15. Syarif hidayatullah : Shani indira natio
-16. WP : bu GM. Melody Laksani
-17. Alimin : Lala, Christy, Ella
-18. Ryan : Shani, Gracia, Anin, Beby, Frieska, Gaby, Desy
-19. Erlang :celine, chika
-20. Muhammad Renaldi Nugraha: Beby Chaesara Anadila
-21. Danang : Jinan, Chika
-22. Ruday : azizi, oniel, lala, chika
-23. Rivan : Shani
-24. Aditya putra: Anin, Greshan
-25. Yoga Wp : Greshan, chika, mira, ratu
-26. Suhendra : Gracia
-27. Sopa : Anin, Lala, Beby
-28. Hasnan : rona
-29. Izzatul : veranda 
-30. Rendi trinanto : Greshan
-31. Farras Yulfian : Greshan, lala, badrun, marsha
-32. Ayu:Nanda&Freya
-33. Yoga Saputra :Vivi,Mira,Chika,Gresan,Ara
-34. Srihartini : Shani,gracia,anin,desy, cinhap
-35. Aditya : Brielle
-36. Dani : Freya, Raisha
-37. Ahmd fauzi : Lala & Abin
-38. Valen : greshan, feiska 
-39. Mugi : Yesica Tamara
-40. WisnuNgrh : Freya, Ara
-41. Reza Andrian : frieska
-42. Rifky : Desy
+01. Ramdhan Suwandi = Shani Indira Natio
+02. Fajar Sang Idola : SisJ, Eli, Lala, Freya, Indah, Indira dan Amanda
+03. Difqi : Melody, Nabilah, Kinal, Celine,Ayana,frieska, fiony, callista, indira , raisha, cigre, shaniiii, Feniiii,Freyaa, Yoriiii
+04. Tegar Rifandi = Gracia, Desy, Shani, Beby, Gaby, Aya, Eli, Celine, Feni, Rona, Nadila, Jinan, Mira, Eve, Ariella, Amel, dll
+05. Fauzi : Frieska, Afiqah, Freya, Fiony
+06. Reza Andrian = Frieska, Afiqah, Freya, Fiony
+07. Eling SF#MasBro48 = Anindhita Rahma Cahyadi
+08. Wahyu : shani, anin, cinhap
+09. Aria Dera = Nabila Yussi Fitrianay
+10. Syarif hidayatullah : Shani indira natio
+11. Pasha Pradana Naim : Gabriela Margaret Warouw
+12. Afif : Gaby & shani
+13. Rendi :  Greshan
+14. Diki = Ayana. Beby. Yupi. Sinka. Anin. Desy. Feni. Shani. Freya. Fiony. Celine. Lala. Christy. Yori. Cinhap
+15. Suhendra : Gracia
+16. Greg : yori, frieska
+17. Wisnu : Celine, Mira
+18. Ima: Kalala
+19. Aldi: Beby Chaesara
+20. Fikri: Lala, gaby beby
+21.Hasnan : rona
+22. Ryan : Shani, Gracia, Anin, Beby, Frieska, Gaby, Desy
+23.adrian : Cindy yuvia, shani, gracia
+24. Moch Habiburrokhim = anindhita Rahma Cahyadi & Cindy Dea Yuvia
+25. Desvian : Eve
+26. aditya putra: greshan, anin
+27.Raden Rambu : Azizi & Flora
+28. Ayu : Nanda & Freya
+29. Srihartini = Shani, Gracia, Desy, Anin & Cinhap
+30. Danang : Jinan, Chika
+31. Yulianti = Yori
+32. Ruday : Azizi, chika, lala, dan oniel
+33.Aditya : Brielle
+34. Khoirul : Rona dan frieska
+35. tri : shani
+36. Yoga wp : Greshan, chika, mira, ratu
+39.Dana Karya Diansyah:lala&brielle
+40. Dani : Freya & Raisha
+41. Erlang :celine, chika
+42. Yusuf Juliansyah : Cindy Hapsari
+43. Wisnu Ngrh : Freya, Ara
+44.Alya Faradiva:Gracia,Chika,Yori, ollaaa
+45. Wicaksono : Eve
+46.  Atmojo Supriatna: Eli, Desy, Anin, Nunu, & Caithlyn
+47.Ahmd fauzi :Kllv, Anin
+48. Sopa : Anin, Beby, Lala
+49. Valen : Greshan, Frieska, Desy
+50. Yoga Saputra : Vivi,Chika,Lala,Ara,Zee,Mira,gresan
+51. Bayu : Fia
