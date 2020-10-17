@@ -29,32 +29,32 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 18. Ima: Kalala
 19. Aldi: Beby Chaesara
 20. Fikri: Lala, gaby beby
-21.Hasnan : rona
+21. Hasnan : rona
 22. Ryan : Shani, Gracia, Anin, Beby, Frieska, Gaby, Desy
-23.adrian : Cindy yuvia, shani, gracia
+23. adrian : Cindy yuvia, shani, gracia
 24. Moch Habiburrokhim = anindhita Rahma Cahyadi & Cindy Dea Yuvia
 25. Desvian : Eve
 26. aditya putra: greshan, anin
-27.Raden Rambu : Azizi & Flora
+27. Raden Rambu : Azizi & Flora
 28. Ayu : Nanda & Freya
 29. Srihartini = Shani, Gracia, Desy, Anin & Cinhap
 30. Danang : Jinan, Chika
 31. Yulianti = Yori
 32. Ruday : Azizi, chika, lala, dan oniel
-33.Aditya : Brielle
+33. Aditya : Brielle
 34. Khoirul : Rona dan frieska
 35. tri : shani
 36. Yoga wp : Greshan, chika, mira, ratu
-39.Dana Karya Diansyah:lala&brielle
-40. Dani : Freya & Raisha
-41. Erlang :celine, chika
-42. Yusuf Juliansyah : Cindy Hapsari
-43. Wisnu Ngrh : Freya, Ara
-44.Alya Faradiva:Gracia,Chika,Yori, ollaaa
-45. Wicaksono : Eve
-46.  Atmojo Supriatna: Eli, Desy, Anin, Nunu, & Caithlyn
-47.Ahmd fauzi :Kllv, Anin
-48. Sopa : Anin, Beby, Lala
-49. Valen : Greshan, Frieska, Desy
-50. Yoga Saputra : Vivi,Chika,Lala,Ara,Zee,Mira,gresan
-51. Bayu : Fia
+37. Dana Karya Diansyah:lala&brielle
+38. Dani : Freya & Raisha
+39. Erlang :celine, chika
+40. Yusuf Juliansyah : Cindy Hapsari
+41. Wisnu Ngrh : Freya, Ara
+42. Alya Faradiva:Gracia,Chika,Yori, ollaaa
+43. Wicaksono : Eve
+44. Atmojo Supriatna: Eli, Desy, Anin, Nunu, & Caithlyn
+45. Ahmd fauzi :Kllv, Anin
+46. Sopa : Anin, Beby, Lala
+47. Valen : Greshan, Frieska, Desy
+48. Yoga Saputra : Vivi,Chika,Lala,Ara,Zee,Mira,gresan
+49. Bayu : Fia
